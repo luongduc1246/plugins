@@ -9,6 +9,7 @@ require (
 	google.golang.org/protobuf v1.33.0
 )
 
+
 require (
 	github.com/Microsoft/go-winio v0.6.0 // indirect
 	github.com/ProtonMail/go-crypto v0.0.0-20220930113650-c6815a8c17ad // indirect
